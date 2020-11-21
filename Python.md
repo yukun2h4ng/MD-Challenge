@@ -1,8 +1,11 @@
 # Hello World in Python
 ---
 **[Python][Python Page Link]**
+
 **[C][C Page Link]**
+
 **[C++][CPP Page Link]**
+
 ![][Python]
 
 This is how to print "Hello World" in Python.
