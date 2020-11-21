@@ -5,7 +5,7 @@
 
 **[Page 3 - C++][CPP Page Link]**
 
-<img src="https://www.dataoptimal.com/wp-content/uploads/python-programming-for-beginners-2019-1024x574.jpg" width="350" height="200">
+<img src="https://www.dataoptimal.com/wp-content/uploads/python-programming-for-beginners-2019-1024x574.jpg" width="300" height="170">
 
 ## This is how to print "Hello World" in Python.
 
