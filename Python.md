@@ -1,5 +1,4 @@
 # Hello World in Python
----
 **[Page 1 - Python][Python Page Link]**
 
 **[Page 2 - C][C Page Link]**
