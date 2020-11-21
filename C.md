@@ -5,7 +5,7 @@
 
 **[Page 3 - C++][CPP Page Link]**
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="200" height="200">
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="200">
 
 ## This is how to print "Hello World" in C.
 ```
