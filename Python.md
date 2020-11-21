@@ -14,3 +14,6 @@ print('Hello World')
 
 
 [Python]: https://www.dataoptimal.com/wp-content/uploads/python-programming-for-beginners-2019-1024x574.jpg
+[Python Page Link]: https://github.com/yukun2h4ng/MD-Challenge/blob/main/Python.md
+[C Page Link]: https://github.com/yukun2h4ng/MD-Challenge/blob/main/C.md
+[CPP Page Link]: https://github.com/yukun2h4ng/MD-Challenge/blob/main/CPP.md
