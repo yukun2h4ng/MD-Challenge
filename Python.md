@@ -1,10 +1,10 @@
 # Hello World in Python
 ---
-**[Python][Python Page Link]**
+**[1. Python][Python Page Link]**
 
-**[C][C Page Link]**
+**[2. C][C Page Link]**
 
-**[C++][CPP Page Link]**
+**[3. C++][CPP Page Link]**
 
 ![][Python]
 
